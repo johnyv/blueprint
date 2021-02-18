@@ -1,0 +1,6 @@
+{"file":"mapBtn_1.png","frames":{
+"fountain":{"x":721,"y":259,"w":190,"h":183,"offX":0,"offY":0,"sourceW":190,"sourceH":183},
+"mid_tree":{"x":923,"y":259,"w":52,"h":80,"offX":0,"offY":0,"sourceW":52,"sourceH":80},
+"area_herb":{"x":421,"y":259,"w":288,"h":213,"offX":0,"offY":0,"sourceW":288,"sourceH":213},
+"gate":{"x":6,"y":6,"w":403,"h":270,"offX":0,"offY":0,"sourceW":403,"sourceH":270},
+"area_birds":{"x":421,"y":6,"w":311,"h":241,"offX":0,"offY":0,"sourceW":311,"sourceH":241}}}
